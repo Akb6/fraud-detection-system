@@ -60,11 +60,6 @@ text
 | XGBoost    | 87%       | 84%    | 85%      | 0.92    |
 | RandomForest | 86%     | 83%    | 84%      | 0.91    |
 
-## For Interviews
-
-> "Built end-to-end fraud detection pipeline for 75k+ transactions. Engineered domain features + SMOTE handling achieved 87% precision detecting 3 fraud patterns."
-
----
 
 **⭐ Star if helpful!**  
 *Professional ML portfolio project ready for production.*
